@@ -1,0 +1,20 @@
+h1	{
+	color: darkblue;
+	font-size: 5em;
+}
+
+#alice{
+	font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+    color: navy;
+
+}
+
+
+table, th, td {
+	border: 3px solid blue;
+    border-collapse: collapse;
+}
